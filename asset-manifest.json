@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.e6c13ad2.css",
+    "main.js": "/landingpage/static/js/main.86daaa90.js",
+    "static/js/453.b95bd765.chunk.js": "/landingpage/static/js/453.b95bd765.chunk.js",
+    "static/media/photo.png": "/landingpage/static/media/photo.e5f64e9431530ce2f019.png",
+    "static/media/postgresql-svgrepo-com.svg": "/landingpage/static/media/postgresql-svgrepo-com.9aed68683d15cfc3c3fd8ddf1d89ff4e.svg",
+    "static/media/sqlite-svgrepo-com.svg": "/landingpage/static/media/sqlite-svgrepo-com.afde1dbf5dd00a601da7a06ac858e37e.svg",
+    "static/media/opencv-svgrepo-com.svg": "/landingpage/static/media/opencv-svgrepo-com.cdca8e7fb77fad3a2b3ca93149320c7e.svg",
+    "static/media/styled-components-svgrepo-com.svg": "/landingpage/static/media/styled-components-svgrepo-com.8719f0da63cf8eaa4a4a63c801224202.svg",
+    "static/media/node-svgrepo-com.svg": "/landingpage/static/media/node-svgrepo-com.01defc693b98adf7afa0f02417db9811.svg",
+    "static/media/ubuntu-svgrepo-com.svg": "/landingpage/static/media/ubuntu-svgrepo-com.bf4bba49ddbe006c1b438b64e7056672.svg",
+    "static/media/mongo-svgrepo-com.svg": "/landingpage/static/media/mongo-svgrepo-com.eb842895e80bd61dd471f2b70345feab.svg",
+    "static/media/ISO_C++_Logo.svg": "/landingpage/static/media/ISO_C++_Logo.2441702dffa95ca3c92c20816e386640.svg",
+    "static/media/c--4.svg": "/landingpage/static/media/c--4.04d9d2bb18b9781567f7340691dcc686.svg",
+    "static/media/tensorflow-svgrepo-com.svg": "/landingpage/static/media/tensorflow-svgrepo-com.b675fae9e6dd5e9a9cb817ba5088dc4c.svg",
+    "static/media/python-svgrepo-com.svg": "/landingpage/static/media/python-svgrepo-com.62e8a4442709e711eb8c89041804c775.svg",
+    "static/media/git-svgrepo-com.svg": "/landingpage/static/media/git-svgrepo-com.8ee81345da1c18b6cdb4bbe93b464810.svg",
+    "static/media/pytorch-svgrepo-com.svg": "/landingpage/static/media/pytorch-svgrepo-com.48338b80b52d44a4930cc5717aef8fe1.svg",
+    "static/media/angular-icon-svgrepo-com.svg": "/landingpage/static/media/angular-icon-svgrepo-com.731e1535babc4225f9deaa9108718461.svg",
+    "static/media/typescript-svgrepo-com.svg": "/landingpage/static/media/typescript-svgrepo-com.da47f77824fab48dafd99485194e6bae.svg",
+    "static/media/dotnet-svgrepo-com.svg": "/landingpage/static/media/dotnet-svgrepo-com.98dd8f19cbf4a7a788739cd942f7b79e.svg",
+    "index.html": "/landingpage/index.html",
+    "static/media/javascript-svgrepo-com.svg": "/landingpage/static/media/javascript-svgrepo-com.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
+    "static/media/djangoproject-svgrepo-com.svg": "/landingpage/static/media/djangoproject-svgrepo-com.2a1d42a2fb6421730ab25d73095913c0.svg",
+    "static/media/pandas-svgrepo-com.svg": "/landingpage/static/media/pandas-svgrepo-com.9bd98d45528b4db66a14dea560328cba.svg",
+    "static/media/css-3-svgrepo-com.svg": "/landingpage/static/media/css-3-svgrepo-com.315b8fdb9dbf75ae965b80bf368895cd.svg",
+    "static/media/html-5-svgrepo-com.svg": "/landingpage/static/media/html-5-svgrepo-com.0107c93943a8f415b5db64ebb0a9d12d.svg",
+    "static/media/keras-svgrepo-com.svg": "/landingpage/static/media/keras-svgrepo-com.da2e67055e6f61f5eb331160b027a981.svg",
+    "main.e6c13ad2.css.map": "/landingpage/static/css/main.e6c13ad2.css.map",
+    "main.86daaa90.js.map": "/landingpage/static/js/main.86daaa90.js.map",
+    "453.b95bd765.chunk.js.map": "/landingpage/static/js/453.b95bd765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.86daaa90.js"
+  ]
+}
