@@ -8,7 +8,8 @@ export default function Home() {
     <Grid style={{
       width: "100%",
       height: "100%",
-      background: MainTheme.bg
+      background: MainTheme.bg,
+      padding: '3rem'
     }}>
       {/* <Contact /> */}
       {/* <Portfolio /> */}
