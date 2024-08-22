@@ -16,7 +16,7 @@ export default function MyPresentation(props: Iprops) {
   });
 
   return (
-    <Grid container direction={"column"}>
+    <Grid container direction={"column"} justifyContent={"center"}>
       <Grid item>
         <Content className="Emphasis">I'm</Content>
         <Content className="ColoredEmphasis">Fernando Filho</Content>
