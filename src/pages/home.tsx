@@ -10,6 +10,7 @@ export default function Home() {
       height: "100%",
       background: MainTheme.bg,
       padding: '3rem'
+      
     }}>
       {/* <Contact /> */}
       {/* <Portfolio /> */}
