@@ -38,47 +38,51 @@ export default function Skills(props: Iprops) {
         <Skill src={reactIcon} name="React" />
         <Skill src={angular} name="Angular" />
         <Skill src={styledComp} name="Styled" />
-      </Grid>
-
-      <Grid container direction={"row"} justifyContent={"center"}>
         <Skill src={css} name="css" />
         <Skill src={js} name="javascript" />
         <Skill src={html} name="html" />
       </Grid>
 
       <Grid container direction={"row"} justifyContent={"center"}>
-        <Skill src={django} name="" />
-        <Skill src={node} name="node" />
-        <Skill src={typescript} name="typescript" />
+
       </Grid>
 
       <Grid container direction={"row"} justifyContent={"center"}>
+        <Skill src={django} name="Django" />
+        <Skill src={node} name="node" />
+        <Skill src={typescript} name="typescript" />
         <Skill src={cpp} name="c++" />
         <Skill src={csharp} name="C#" />
         <Skill src={dotnet} name=".NET" />
       </Grid>
 
       <Grid container direction={"row"} justifyContent={"center"}>
-        <Skill src={sqlite} name="Sqlite" />
-        <Skill src={mongo} name="Mongo" />
-        <Skill src={postgres} name="Postgresql" />
+
       </Grid>
 
       <Grid container direction={"row"} justifyContent={"center"}>
+        <Skill src={sqlite} name="Sqlite" />
+        <Skill src={mongo} name="Mongo" />
+        <Skill src={postgres} name="Postgresql" />
         <Skill src={git} name="Git" />
         <Skill src={python} name="Python" />
         <Skill src={ubuntu} name="Ubuntu" />
       </Grid>
 
       <Grid container direction={"row"} justifyContent={"center"}>
-        <Skill src={keras} name="Keras" />
-        <Skill src={opencv} name="Opencv" />
-        <Skill src={pandas} name="Pandas" />
+
       </Grid>
 
       <Grid container direction={"row"} justifyContent={"center"}>
+        <Skill src={keras} name="Keras" />
+        <Skill src={opencv} name="Opencv" />
+        <Skill src={pandas} name="Pandas" />
         <Skill src={pytorch} name="Pytorch" />
         <Skill src={tensorflow} name="Tensorflow" />
+      </Grid>
+
+      <Grid container direction={"row"} justifyContent={"center"}>
+
       </Grid>
     </Grid>
   );
