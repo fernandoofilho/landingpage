@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landingpage/static/css/main.e6c13ad2.css",
-    "main.js": "/landingpage/static/js/main.c1653c6c.js",
+    "main.js": "/landingpage/static/js/main.80c7986c.js",
     "static/js/453.b95bd765.chunk.js": "/landingpage/static/js/453.b95bd765.chunk.js",
     "static/media/photo.png": "/landingpage/static/media/photo.e5f64e9431530ce2f019.png",
     "static/media/postgresql-svgrepo-com.svg": "/landingpage/static/media/postgresql-svgrepo-com.9aed68683d15cfc3c3fd8ddf1d89ff4e.svg",
@@ -28,11 +28,11 @@
     "static/media/html-5-svgrepo-com.svg": "/landingpage/static/media/html-5-svgrepo-com.0107c93943a8f415b5db64ebb0a9d12d.svg",
     "static/media/keras-svgrepo-com.svg": "/landingpage/static/media/keras-svgrepo-com.da2e67055e6f61f5eb331160b027a981.svg",
     "main.e6c13ad2.css.map": "/landingpage/static/css/main.e6c13ad2.css.map",
-    "main.c1653c6c.js.map": "/landingpage/static/js/main.c1653c6c.js.map",
+    "main.80c7986c.js.map": "/landingpage/static/js/main.80c7986c.js.map",
     "453.b95bd765.chunk.js.map": "/landingpage/static/js/453.b95bd765.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c1653c6c.js"
+    "static/js/main.80c7986c.js"
   ]
 }
